@@ -13,6 +13,8 @@ EfficientNet 기반 모델과 ensemble 전략을 적용하여 Leaderboard 기준
 ---
 
 ## 2. Directory
+
+```bash
 cv_project/
 ├── train.py
 ├── inference.py
@@ -31,7 +33,7 @@ cv_project/
 │   ├── submissions/
 │   └── final/
 
-
+```
 ---
 
 ## 3. Data Description
